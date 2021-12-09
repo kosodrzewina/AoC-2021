@@ -20,7 +20,7 @@ fun main(args: Array<String>) {
         }
     }
 
-    println("Day 3")
+    println("Day 5")
     println("Part 1: ${doPart1(pairs)}")
     println("Part 2: ${doPart2(pairs)}")
 }
